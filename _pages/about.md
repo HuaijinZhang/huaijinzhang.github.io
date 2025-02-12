@@ -35,5 +35,3 @@ Publications
 + Z. Chen, G. Liu, **H. Zhang** and T. Jiang, "A Novel Polar Code Construction for Magnetic Induction based Wireless Underground Communications," IEEE Communications Letters, doi: 10.1109/LCOMM.2023.3313262. (SCI源刊；IF:5.375)
 
 + 辛雨 许优 **张怀瑾** 暴桐 孔德进. 高时频效率通用滤波器组频分复用调制技术[J]. 北京邮电大学学报, 2023, 46(4): 109-115. (EI 检索)
-  
-
