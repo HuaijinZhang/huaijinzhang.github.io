@@ -20,7 +20,8 @@ Education
 
 Publications
 ===
-
++ **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. (SCI源刊；IF:5.375)[pdf](https://www.baidu.com/)
+  
 + **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. (SCI源刊；IF:5.375)[pdf](https://www.baidu.com/)  
 
 + **H. Zhang**, G. Liu, and T. Jiang, “Parameter Configuration Scheme for Optimal Energy Efficiency in LoRa-based Wireless Underground Sensor Networks” IEEE Transactions on Vehicular Technology, minor review. (SCI源刊；IF:5.375)
