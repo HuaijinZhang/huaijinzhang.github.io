@@ -9,11 +9,11 @@ redirect_from:
 I'm a PhD student from Huazhong University of Science and Technology (HUST). My research interest includes LoRa technology and underground communication.
 I am advised by Prof. Tao Jiang (IEEE Fellow) from School of Electronic Information and Communications, HUST. 
 
----
+
 Publications
 ---
 
-+ **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. (SCI源刊；IF:5.375)
++ **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. (SCI源刊；IF:5.375)[pdf](https://www.baidu.com/)  
 
 + **H. Zhang**, G. Liu, and T. Jiang, “Parameter Configuration Scheme for Optimal Energy Efficiency in LoRa-based Wireless Underground Sensor Networks” IEEE Transactions on Vehicular Technology, minor review. (SCI源刊；IF:5.375)
 
@@ -26,3 +26,5 @@ Publications
 + Z. Chen, G. Liu, **H. Zhang** and T. Jiang, "A Novel Polar Code Construction for Magnetic Induction based Wireless Underground Communications," IEEE Communications Letters, doi: 10.1109/LCOMM.2023.3313262. (SCI源刊；IF:5.375)
 
 + 辛雨 许优 **张怀瑾** 暴桐 孔德进. 高时频效率通用滤波器组频分复用调制技术[J]. 北京邮电大学学报, 2023, 46(4): 109-115. (EI 检索)
+  
+
