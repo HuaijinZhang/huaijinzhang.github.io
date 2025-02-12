@@ -8,20 +8,15 @@ redirect_from:
 ---
 
 ### About Me
-
 I'm a PhD student from Huazhong University of Science and Technology (HUST). My research interest includes LoRa technology and underground communication.
 I am advised by Prof. Tao Jiang (IEEE Fellow) from School of Electronic Information and Communications, HUST. 
 
 ### Education
-
 + PhD in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2019 - now  
-
 + Bachelor in Electronic and Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
 
 ### Publications
-
-
-+ **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. [pdf](https://www.baidu.com/)  
++ **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2023.3325330. 
 
 + **H. Zhang**, G. Liu, and T. Jiang, “Parameter Configuration Scheme for Optimal Energy Efficiency in LoRa-based Wireless Underground Sensor Networks” IEEE Transactions on Vehicular Technology, minor review. 
 
