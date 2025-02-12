@@ -14,12 +14,9 @@ I am advised by Prof. Tao Jiang (IEEE Fellow) from School of Electronic Informat
 
 Education
 ---
-+ Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2019 - now  
++ PhD in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2019 - now  
 
-PhD in Information and Communication Engineering.
-+ Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
-
-Bachelor in Electronic and Information Engineering.
++ Bachelor in Electronic and Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
 
 Publications
 ---
