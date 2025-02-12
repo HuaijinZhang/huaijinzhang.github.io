@@ -6,9 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+About Me
+---
 I'm a PhD student from Huazhong University of Science and Technology (HUST). My research interest includes LoRa technology and underground communication.
 I am advised by Prof. Tao Jiang (IEEE Fellow) from School of Electronic Information and Communications, HUST. 
 
+Education
+---
++ Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2019 - now
+PhD in Information and Communication Engineering.
++ Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
+Bachelor in Electronic and Information Engineering.
 
 Publications
 ---
