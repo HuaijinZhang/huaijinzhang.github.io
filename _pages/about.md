@@ -12,7 +12,7 @@ I'm a PhD student from Huazhong University of Science and Technology (HUST). My 
 I am advised by **Prof. Tao Jiang** (IEEE Fellow) from School of Electronic Information and Communications, HUST. 
 
 ## Education
-+ Visiting student, in the State Key Laboratory of Internet of Things for Smart City, University of Macau, hosted by [Prof. Shaodan Ma (https://www.fst.um.edu.mo/personal/shaodanma/), Dec. 2021 - Mar. 2022
++ Visiting student, in the State Key Laboratory of Internet of Things for Smart City, University of Macau, hosted by [Prof. Shaodan Ma](https://www.fst.um.edu.mo/personal/shaodanma/), Dec. 2021 - Mar. 2022
 + PhD in Information and Communication Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2019 - now  
 + Bachelor in Electronic and Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
 
