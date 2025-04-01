@@ -17,9 +17,9 @@ I am advised by **Prof. Tao Jiang** (IEEE Fellow) from School of Electronic Info
 + Bachelor in Electronic and Information Engineering, Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China, Sep. 2015 - Jul. 2019
 
 ## Under Review
-+ **H. Zhang**, G. Liu, K. Chai, J. Wang, and T. Jiang,"1-Bit STBC-LoRa Modulation for Extreme Environment Communications", submitted to *IEEE Wireless Communications Letters*.
++ **H. Zhang**, G. Liu, K. Chai, J. Wang, and T. Jiang,"1-Bit STBC-LoRa Modulation for Extreme Environment Communications", *IEEE Wireless Communications Letters*, major revision.
 + **H. Zhang**, G. Liu, C. Liao, J. Wang, and T. Jiang,"Experimental analysis of underground wireless charging based on backscatter-assisted distributed beamforming", submitted to *China Communications*.
-+ C. Liao, G. Liu, **H. Zhang**, G. Zhao, and T. Jiang, "High-Efficiency and Compact RF Rectifier Design for Wireless Sensors in Extreme Environments", submitted to *IEEE Sensors Letters*.
++ C. Liao, G. Liu, **H. Zhang**, G. Zhao, and T. Jiang, "High-Efficiency and Compact RF Rectifier Design for Wireless Sensors in Extreme Environments", *IEEE Sensors Letters*, accepted.
 
 ## Publications
 + **H. Zhang**, G. Liu, Y. Xu and T. Jiang, “LoRaAid: Underground Joint Communication and Localization System Based on LoRa Technology,” in *IEEE Transactions on Wireless Communications*, vol. 23, no. 5, pp. 5248-5260, May 2024. [pdf](https://ieeexplore.ieee.org/document/10295375)
